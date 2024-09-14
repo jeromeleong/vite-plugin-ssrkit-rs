@@ -1,0 +1,30 @@
+{
+  "name": "vite-plugin-ssrkit-rs",
+  "version": "1.0.0",
+  "description": "Ssrkit 格式",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"錯誤：尚未指定測試\" && exit 1"
+  },
+  "keywords": [
+    "vite",
+    "plugin",
+    "ssr",
+    "islands"
+  ],
+  "author": "Jerome Leong",
+  "license": "MIT",
+  "peerDependencies": {
+    "vite": "5.4.3"
+  },
+  "devDependencies": {
+    "esbuild": "^0.23.1",
+    "fs": "0.0.2",
+    "path": "^0.12.7",
+    "picocolors": "^1.1.0"
+  },
+  "dependencies": {
+    
+  }
+}
