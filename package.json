@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-ssrkit-rs",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Ssrkit 格式",
   "main": "src/index.js",
   "type": "module",
